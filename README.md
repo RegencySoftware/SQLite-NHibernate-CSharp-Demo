@@ -13,5 +13,8 @@ The project is setup with:
 
 { imgurl: 'http://snippets.surfthru.com/FILES%2f2015%2f02%2fSQLite-NHibDemo.jpg.axdx',
   imgrefurl: 'http://snippets.surfthru.com/post/asp-net-sqlite-nhibernate-c-demo',
+    h: '145',
+  w: '396',
+  sz: '12'
   q: 'Screen Shot'
 }
