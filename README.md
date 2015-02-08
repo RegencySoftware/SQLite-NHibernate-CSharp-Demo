@@ -1,4 +1,4 @@
-# SQLiteNHibernate
+# SQLite NHibernate
 SQLite / NHibernate ASP.NET C# Demo Project.
 
 The project is setup with:
