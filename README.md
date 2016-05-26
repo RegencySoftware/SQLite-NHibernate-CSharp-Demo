@@ -12,4 +12,4 @@ The project is setup with:
 * One Data Access Class: NHibernate Connection, Session, Selects, Saves, and Deletes
 * It also contains a script to freeze the GridView header as found on ASPSnippets.
 
-![ScreenShot](http://snippets.surfthru.com/downloads/SQLiteDemo-Site.jpg)
+![ScreenShot](http://blog.regencysoftware.com/downloads/SQLiteDemo-site.jpg)
